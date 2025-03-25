@@ -27,8 +27,8 @@ Follow these steps to get the Hand Gesture Piano up and running on your machine.
 1.  **Clone the repository (or download the ZIP):**
 
     ```bash
-    git clone [repository URL here]  # Replace [repository URL here] with your GitHub repository URL once you create it
-    cd HandGesturePiano
+    git clone https://github.com/Vismay7890/PalmPiano
+    cd PamPiano
     ```
 
 2.  **Create a virtual environment (recommended):**
@@ -48,7 +48,7 @@ Follow these steps to get the Hand Gesture Piano up and running on your machine.
 ### Usage
 
 1.  **Make sure your webcam is connected and working.**
-2.  **Run the `hand_piano.py` script:**
+2.  **Run the `hand_piano.py` or `enhanced.py` script:**
 
     ```bash
     python hand_piano.py
@@ -109,7 +109,7 @@ This project is licensed under the [Your License Name] License - see the `LICENS
 
 ## Author
 
-[Your Name] - [Your GitHub Profile URL (optional)]
+Vismay Jain - [[MY Portfolio](https://vismay-portfolio.vercel.app/)]
 
 ---
 
