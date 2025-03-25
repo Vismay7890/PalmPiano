@@ -105,7 +105,7 @@ You can customize this file to change the chords and scales used in the project!
 
 ## License
 
-This project is licensed under the [Your License Name] License - see the `LICENSE` file for details. (Consider using a license like MIT or Apache 2.0).
+This project is licensed under the MIT License
 
 ## Author
 
